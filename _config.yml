@@ -1,0 +1,20 @@
+# Site settings
+title: Kyle Crowley
+description: Jekyll Theme Minimal Resume
+# baseurl: ""
+url: "http://kylecrowley.com"
+
+# User settings
+username: Kyle Crowley
+user_description: I'm a Software Engineer, currently working at <a href="https://softheon.com" target="_blank">Softheon</a>.
+user_title: Software Engineer
+email: crowley.kyle.r@gmail@gmail.com
+# twitter_username: lorem_ipsum
+github_username:  KyleCrowley
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
